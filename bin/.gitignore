@@ -1,4 +1,4 @@
-/Bracket.class
-/check_brackets.class
-/StackMax.class
-/FastScanner.class
+/stack_with_max.class
+/StackWithMax$FastScanner.class
+/StackWithMax.class
+/stack_with_max$FastScanner.class
